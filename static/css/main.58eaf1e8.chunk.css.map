@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,oBAAqB,CACrB,iBAAkB,CAClB,qBAAsB,CACtB,kBAAmB,CACnB,YAAa","file":"main.58eaf1e8.chunk.css","sourcesContent":[".App {\n  display: inline-block;\n  text-align: center;\n  border: 2px solid blue;\n  border-radius: 10px;\n  padding: 10px;\n}\n"]}
